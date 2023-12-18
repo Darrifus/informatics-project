@@ -3,8 +3,10 @@
 ## Установка Python
 Для установки Python на Ubuntu последовательно выполните в терминале следующие команды:
 
-`sudo apt-get update`
-`apt search idle-python`
+```
+sudo apt-get update
+apt search idle-python
+```
 Выберите одну из предложенных версий Python и выполните `sudo apt-get install idle-python*версия*`
 Зайдите в установленный IDLE и создайте новый файл. Можно приступать к написанию программы.
 
