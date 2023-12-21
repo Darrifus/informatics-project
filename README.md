@@ -7,7 +7,7 @@
 sudo apt-get update
 apt search idle-python
 ```
-Выберите одну из предложенных версий Python и выполните `sudo apt-get install idle-python*версия*`
+Выберите одну из предложенных версий Python и выполните `sudo apt-get install idle-python*версия*`.
 Зайдите в установленный IDLE и создайте новый файл. Можно приступать к написанию программы.
 
 ## Распознавание текста 
